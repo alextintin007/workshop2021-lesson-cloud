@@ -21,7 +21,7 @@ keypoints:
 
 As it is possible to automate the process of creating resources in the cloud, we have built all the required resources for this tutorial in a GCP Project.
 
-> Here you will find some [instructions on how to join this project](https://docs.google.com/presentation/d/1k-bSGGa7iOCRRgl7jLGrtYhI-M24GcvmUVJkkfRgXIQ/edit?usp=sharing), called `CMS-opendata`, on the GCP.  Please do follow that procedure in order for you to have access to your K8s cluster.
+> Here you will find some [instructions on how to use preemptible machines](https://docs.google.com/presentation/d/1k-bSGGa7iOCRRgl7jLGrtYhI-M24GcvmUVJkkfRgXIQ/edit?usp=sharing) in GKE.  Preemptible VMs offer similar functionality to Spot VMs, but only last up to 24 hours after creation, this might be taken into account if reducing costs is of your concern.
 {: .testimonial}
 
 
